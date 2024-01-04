@@ -6,7 +6,7 @@ if number > 0:
     ldigit = number % 10
 else:
     ldigit = number % -10
-   
+
 if ldigit == 0:
     state = "0"
 elif ldigit > 5:
